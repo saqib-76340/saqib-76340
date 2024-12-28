@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/saqib-76340/saqib-76340/blob/main/github-header-image%20(29).png)
 
-<h1 align="center">Hi 👋, I'm Md Shaqibbuzzaman</h1>
+<h1 align="center">Hi 👋, I'm Shaqibbuzzaman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
