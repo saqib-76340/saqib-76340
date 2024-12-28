@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/saqib-76340/saqib-76340/commit/92a543b351c2310c68e9c6f86b35f305ac94a885)
+![MasterHead](https://github.com/saqib-76340/saqib-76340/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Md Shaqibbuzzaman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
