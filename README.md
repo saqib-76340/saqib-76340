@@ -18,24 +18,24 @@
 - ⚡ Fun fact **I am funny 😅**
   
 ## Education
-- 2024-(2027): MiT (B.Tech In Computer Science)
+- 2024-(2027): **MiT** (B.Tech In Computer Science)
 - 2021-(2024): Maulana Azad National Urdu University,Bangalore (Diploma In Computer Science)
 - 2018-(2020): I.G.R.S.L.N. College, Jitwariya, Samastipur. (Intermediate)
 - 2017-(2018): Mahanth Dukha Das.H.S.K.N. SARSAUNA (10th)
   
 
 ## Skills
-- Natural Language: Hindi (Native) 🇮🇳, English (good writing ✍️ and Intermediate communication) 🇬🇧.
-Programming Languages: C 💻, C++ ➕, HTML🌐 & CSS 🎨, Bootstrap 🔲, Python 🐍, Java ☕, JavaScript 💻⚡, Web Development 🌐, and Problem Solving 🧠.
+- Natural Language: **Hindi** (Native) 🇮🇳, **English** (good writing ✍️ and Intermediate communication) 🇬🇧.
+- Programming Languages: **C 💻, C++ ➕, HTML🌐 & CSS 🎨, Bootstrap 🔲, Python 🐍, Java ☕, JavaScript 💻⚡**, Web Development 🌐, and Problem Solving 🧠.
 ## Learning For Knowledge 
-  - Mathematics: Matrix analysis, Graph theory, Statistics, Optimization, Fourier and Laplace analysis.
-  - Control Theory: Distributed control, Robust control, Optimal control, Kalman filter.
-  - Robotics: Robotic arms, Quadrotor drones, Wheeled mobile robots.
-  - AI: Deep learning, Reinforcement learning, LLM.
-- Tool: Simulink, ROS1 & ROS2, Docker, Arduino, Solidworks. 
-- Typesetting Language: LaTeX, Markdown.
+  - **Mathematics:** *Matrix analysis, Graph theory, Statistics, Optimization, Fourier and Laplace analysis.*
+  - **Control Theory:** *Distributed control, Robust control, Optimal control, Kalman filter.*
+  - **Robotics:** *Robotic arms, Quadrotor drones, Wheeled mobile robots.*
+  - **AI:** Deep learning, Reinforcement learning, LLM.*
+- **Tool:** *Simulink, ROS1 & ROS2, Docker, Arduino, Solidworks. 
+- **Typesetting Language:** *LaTeX, Markdown.*
 ## Interests and Hobbies 
-- 🔥 interested in front-end and full-stack development 💻, and at the same time, I have a strong passion for data science 📊, AI 🤖, and research 🔍.
+- 🔥 interested in **front-end** and **full-stack** development 💻, and at the same time, I have a strong passion for data science 📊, **AI** 🤖, and **research** 🔍.
 - ✨ I'm keen to share some of my learning and learn from outstanding ones.
 - 😄 Hobby:
   - 💪 Training or running 2-3 times a week.
