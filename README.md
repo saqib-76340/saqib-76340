@@ -31,11 +31,11 @@
   - **Mathematics:** *Matrix analysis, Graph theory, Statistics, Optimization, Fourier and Laplace analysis.*
   - **Control Theory:** *Distributed control, Robust control, Optimal control, Kalman filter.*
   - **Robotics:** *Robotic arms, Quadrotor drones, Wheeled mobile robots.*
-  - **AI:** Deep learning, Reinforcement learning, LLM.*
-- **Tool:** *Simulink, ROS1 & ROS2, Docker, Arduino, Solidworks. 
+  - **AI:** *Deep learning, Reinforcement learning, LLM.*
+- **Tool:** *Simulink, ROS1 & ROS2, Docker, Arduino, Solidworks.*
 - **Typesetting Language:** *LaTeX, Markdown.*
 ## Interests and Hobbies 
-- 🔥 interested in **front-end** and **full-stack** development **💻**, and at the same time, I have a strong passion for **data science 📊,** **AI 🤖,** and **research 🔍**.
+- 🔥 interested in **front-end** and **full-stack development 💻**, and at the same time, I have a strong passion for **data science 📊,** **AI 🤖,** and **research 🔍**.
 - ✨ I'm keen to share some of my learning and learn from outstanding ones.
 - 😄 Hobby:
   - 💪 Training or running 2-3 times a week.
