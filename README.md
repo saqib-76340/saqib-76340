@@ -25,8 +25,8 @@
   
 
 ## Skills
-- Natural Language: Hindi (Native), English (Good writing and Intermediate communication level)
-- Programming Language: C, C++, HTML & CSS, Bootstrap, Python, Java, JavaScript.
+- Natural Language: Hindi (Native) 🇮🇳, English (good writing ✍️ and Intermediate communication) 🇬🇧.
+Programming Languages: C 💻, C++ ➕, HTML🌐 & CSS 🎨, Bootstrap 🔲, Python 🐍, Java ☕, JavaScript 💻⚡, Web Development 🌐, and Problem Solving 🧠.
 ## Learning For Knowledge 
   - Mathematics: Matrix analysis, Graph theory, Statistics, Optimization, Fourier and Laplace analysis.
   - Control Theory: Distributed control, Robust control, Optimal control, Kalman filter.
