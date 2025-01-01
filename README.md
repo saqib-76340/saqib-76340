@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/saqib-76340/saqib-76340/blob/main/github-header-image%20(29).png)
+![MasterHead](https://github.com/saqib-76340/saqib-76340/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(3).png)
 
 <h1 align="center">Hi 👋, I'm Shaqibbuzzaman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I am funny 😅**
   
 ## Education
-- 2024/07-(2027/03): MiT (B.Tech In Computer Science)<a href="https://twitter.com/shaqib7634" target="blank"><img src="https://github.com/saqib-76340/saqib-76340/blob/main/mitlicence.svg" alt="shaqib7634" top="20px" colore="red" /></a>
+- 2024/07-(2027/03): MiT (B.Tech In Computer Science)
 - 2021/06-(2024/03): Maulana Azad National Urdu University,Bangalore (Diploma In Computer Science)
 
 ## Skills
@@ -80,6 +80,9 @@
   - 📚 Reading (Biography, History, Philosophy, Time Management, Study Skills, ...) 
   - 🎧 Music (Rhythm, HipHop & Blues, ...)
   - 🎮 Video games(The Legend of Zelda: Breath of the Wild, Fire Emblem, Monster Hunter Rise, ...)
+
+
+  <a href="https://twitter.com/shaqib7634" target="blank"><img src="https://github.com/saqib-76340/saqib-76340/blob/main/mitlicence.svg" alt="shaqib7634"/></a>
 --!>
 
 
