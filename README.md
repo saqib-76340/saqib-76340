@@ -19,14 +19,14 @@
   
 ## Education
 - 2024-(2027): **MiT** (B.Tech In Computer Science)
-- 2021-(2024): Maulana Azad National Urdu University,Bangalore (Diploma In Computer Science)
-- 2018-(2020): I.G.R.S.L.N. College, Jitwariya, Samastipur. (Intermediate)
-- 2017-(2018): Mahanth Dukha Das.H.S.K.N. SARSAUNA (10th)
+- 2021-(2024): Maulana Azad National Urdu University,Bangalore **(Diploma In Computer Science)**
+- 2018-(2020): I.G.R.S.L.N. College, Jitwariya, Samastipur. **(Intermediate)**
+- 2017-(2018): Mahanth Dukha Das.H.S.K.N. SARSAUNA **(10th)**
   
 
 ## Skills
 - Natural Language: **Hindi** (Native) 🇮🇳, **English** (good writing ✍️ and Intermediate communication) 🇬🇧.
-- Programming Languages: **C 💻, C++ ➕, HTML🌐 & CSS 🎨, Bootstrap 🔲, Python 🐍, Java ☕, JavaScript 💻⚡**, Web Development 🌐, and Problem Solving 🧠.
+- Programming Languages: **C 💻, C++ ➕, HTML🌐 & CSS 🎨, Bootstrap 🔲, Python 🐍, Java ☕, JavaScript 💻⚡, Web Development 🌐, and Problem Solving 🧠.**
 ## Learning For Knowledge 
   - **Mathematics:** *Matrix analysis, Graph theory, Statistics, Optimization, Fourier and Laplace analysis.*
   - **Control Theory:** *Distributed control, Robust control, Optimal control, Kalman filter.*
