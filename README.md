@@ -57,8 +57,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib-76340&show_icons=true&locale=en" alt="saqib-76340" /></p>
 
 ## Activity
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-76340&" alt="saqib-76340" /></p>
+
 
 
 
