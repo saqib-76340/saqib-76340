@@ -20,6 +20,9 @@
 ## Education
 - 2024/07-(2027/03): MiT (B.Tech In Computer Science)
 - 2021/06-(2024/03): Maulana Azad National Urdu University,Bangalore (Diploma In Computer Science)
+- 2018/03-(2020/02): I.G.R.S.L.N. College, Jitwariya, Samastipur. (Intermediate)
+- 2017/03-(2018/02): Mahanth Dukha Das.H.S.K.N. SARSAUNA (10th)
+  
 
 ## Skills
 - Natural Language: Hindi (Native), English (Good writing and Intermediate communication level)
