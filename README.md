@@ -19,9 +19,9 @@
   
 ## Education
 - 2024-(2027): **MiT** (B.Tech In Computer Science)
-- 2021-(2024): Maulana Azad National Urdu University,Bangalore **(Diploma In Computer Science)**
-- 2018-(2020): I.G.R.S.L.N. College, Jitwariya, Samastipur. **(Intermediate)**
-- 2017-(2018): Mahanth Dukha Das.H.S.K.N. SARSAUNA **(10th)**
+- **2021-(2024): Maulana Azad National Urdu University,Bangalore** (Diploma In Computer Science)
+- **2018-(2020): I.G.R.S.L.N. College, Jitwariya, Samastipur.** (Intermediate)
+- **2017-(2018): Mahanth Dukha Das.H.S.K.N. SARSAUNA** (10th)
   
 
 ## Skills
@@ -40,8 +40,8 @@
 - 😄 Hobby:
   - 💪 Training or running 2-3 times a week.
   - 🏏 Cricket once a week.
-  - 📚 Reading (Biography, History, Philosophy, Time Management, Study Skills, ...) 
-  - 🎧 Music (Rhythm, HipHop & Blues, ...)
+  - 📚 Reading **(Biography, History, Philosophy, Time Management, Study Skills, ...)**
+  - **🎧 Music (Rhythm, HipHop & Blues, ...)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
