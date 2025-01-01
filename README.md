@@ -16,6 +16,29 @@
 - 📫 How to reach me **mdshaqibbuzzaman2001@gmail.com**
 
 - ⚡ Fun fact **I am funny 😅**
+  
+## Education
+- 2024/07-(2027/03): MiT (B.Tech In Computer Science)<a href="https://twitter.com/shaqib7634" target="blank"><img src="https://github.com/saqib-76340/saqib-76340/blob/main/mitlicence.svg" alt="shaqib7634" top="20px" colore="red" /></a>
+- 2021/06-(2024/03): Maulana Azad National Urdu University,Bangalore (Diploma In Computer Science)
+
+## Skills
+- Natural Language: Hindi (Native), English (Good writing and Intermediate communication level)
+- Programming Language: C, C++, HTML & CSS, Bootstrap, Python, Java, JavaScript.
+## Learning For Knowledge 
+  - Mathematics: Matrix analysis, Graph theory, Statistics, Optimization, Fourier and Laplace analysis.
+  - Control Theory: Distributed control, Robust control, Optimal control, Kalman filter.
+  - Robotics: Robotic arms, Quadrotor drones, Wheeled mobile robots.
+  - AI: Deep learning, Reinforcement learning, LLM.
+- Tool: Simulink, ROS1 & ROS2, Docker, Arduino, Solidworks. 
+- Typesetting Language: LaTeX, Markdown.
+## Interests and Hobbies 
+- 🔥 Interested in working with front-end & full-stack web development Programming.
+- ✨ I'm keen to share some of my learning and learn from outstanding ones.
+- 😄 Hobby:
+  - 💪 Training or running 2-3 times a week.
+  - 🏏 Cricket once a week.
+  - 📚 Reading (Biography, History, Philosophy, Time Management, Study Skills, ...) 
+  - 🎧 Music (Rhythm, HipHop & Blues, ...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +56,32 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib-76340&show_icons=true&locale=en" alt="saqib-76340" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-76340&" alt="saqib-76340" /></p>
+## Activity
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-76340&" alt="saqib-76340" /></p>
+
+
+
+
+
+
+
+
+
+---
+<!--
+[![wakatime](https://wakatime.com/badge/user/09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc.svg)](https://wakatime.com/@09b9ec51-4790-4f52-a7f3-ae35dcbfc6dc)
+
+- 🔥 Interested in working with front-end & full-stack web development Programming.
+- ✨ I'm keen to share some of my learning and learn from outstanding ones.
+- 😄 Hobby:
+  - 💪 Training or running 2~3 times a week
+  - 🏏 Cricket once a week
+  - 📚 Reading (Biography, History, Philosophy, Time Management, Study Skills, ...) 
+  - 🎧 Music (Rhythm, HipHop & Blues, ...)
+  - 🎮 Video games(The Legend of Zelda: Breath of the Wild, Fire Emblem, Monster Hunter Rise, ...)
+--!>
+
+
+
+
