@@ -34,7 +34,7 @@
   - **AI:** *Deep learning, Reinforcement learning, LLM.*
 - **Tool:** *Simulink, ROS1 & ROS2, Docker, Arduino, Solidworks.*
 - **Typesetting Language:** *LaTeX, Markdown.*
-## Interests and Hobbies 
+## 💎 Interests and Hobbies 
 - 🔥 interested in **front-end** and **full-stack development 💻**, and at the same time, I have a strong passion for **data science 📊,** **AI 🤖,** and **research 🔍**.
 - ✨ I'm keen to share some of my learning and learn from outstanding ones.
 - **😄 Hobby:**
