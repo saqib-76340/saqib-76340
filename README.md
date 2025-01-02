@@ -17,17 +17,17 @@
 
 - 🤹 Fun fact **I am funny 😅✨**
   
-## Education
+## 🎓 Education
 - 2024-(2027): **MiT (B.Tech In Computer Science)**
 - 2021-(2024): **Maulana Azad National Urdu University,Bangalore (Diploma In Computer Science).**
 - 2018-(2020): **I.G.R.S.L.N. College, Jitwariya, Samastipur. (Intermediate)**
 - 2017-(2018): **Mahanth Dukha Das.H.S.K.N. SARSAUNA (10th)**
   
 
-## Skills
+## 💡 Skills
 - Natural Language: **Hindi** (Native) 🇮🇳, **English (good writing ✍️ and Intermediate communication) 🇬🇧.**
 - Programming Languages: **C 💻, C++ ➕, HTML🌐 & CSS 🎨, Bootstrap 🔲, Python 🐍, Java ☕, JavaScript 💻⚡, Web Development 🌐, and Problem Solving 🧠.**
-## Learning For Knowledge 
+## 📖 Learning For Knowledge 
   - **Mathematics:** *Matrix analysis, Graph theory, Statistics, Optimization, Fourier and Laplace analysis.*
   - **Control Theory:** *Distributed control, Robust control, Optimal control, Kalman filter.*
   - **Robotics:** *Robotic arms, Quadrotor drones, Wheeled mobile robots.*
@@ -43,7 +43,7 @@
   - 📚 Reading (Biography, History, Philosophy, Time Management, Study Skills, ...)
   - 🎧 Music (Rhythm, HipHop & Blues, ...)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌟 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shaqib7634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaqib7634" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md shaqibbuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shaqibbuzzaman" height="30" width="40" /></a>
@@ -52,14 +52,17 @@
 <a href="https://www.youtube.com/c/code innovators hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code innovators hub" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-76340&show_icons=true&locale=en&layout=compact" alt="saqib-76340" /></p>
-##🚀 GitHub Performance Overview
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib-76340&show_icons=true&locale=en" alt="saqib-76340" /></p>
+<p align=""><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-76340&show_icons=true&locale=en&layout=compact" alt="saqib-76340" /></p>
 
-## Activity
+
+## 🚀 GitHub Performance Overview
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib-76340&show_icons=true&locale=en" alt="saqib-76340" /></p>
+</div>
+
+## 🔥 Activity
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-76340&" alt="saqib-76340" /></p>
 
 
