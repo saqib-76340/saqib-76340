@@ -40,8 +40,8 @@
 - 😄 Hobby:
   - 💪 Training or running 2-3 times a week.
   - 🏏 Cricket once a week.
-  - 📚 Reading **(Biography, History, Philosophy, Time Management, Study Skills, ...)**
-  - **🎧 Music (Rhythm, HipHop & Blues, ...)**
+  - 📚 Reading (**Biography, History, Philosophy, Time Management, Study Skills, ...**)
+  - 🎧 Music **(Rhythm, HipHop & Blues, ...)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
