@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/saqib-76340/saqib-76340/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(3).gif)
 
-<h1 align="center">Hi 👋, I'm Shaqib</h1>
+<h1 align="center">Hi 👋, I'm Shaqib✨🚀</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
@@ -18,10 +18,10 @@
 - 🤹 Fun fact **I am funny 😅✨**
   
 ## 🎓 Education
-- **(2024-2027): MIT ✨(B.Tech In Computer Science)**
-- **(2021-2024): Maulana Azad National Urdu University,Bangalore ✨(Diploma In Computer Science)**
-- **(2018-2020): I.G.R.S.L.N. College, Jitwariya, Samastipur ✨(Intermediate)**
-- **(2017-2018): Mahanth Dukha Das.H.S.K.N. SARSAUNA ✨(10th)**
+- **(2024-2027): ✨MIT 👉(B.Tech In Computer Science)**
+- **(2021-2024): ✨Maulana Azad National Urdu University,Bangalore 👉(Diploma In Computer Science)**
+- **(2018-2020): ✨I.G.R.S.L.N. College, Jitwariya, Samastipur 👉(Intermediate)**
+- **(2017-2018): ✨Mahanth Dukha Das.H.S.K.N. SARSAUNA 👉(10th)**
   
 
 ## 💡 Skills
