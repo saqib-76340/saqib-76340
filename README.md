@@ -19,7 +19,7 @@
   
 ## 🎓 Education
 - **(2024-2027): ✨ MIT 👉 B.Tech In Computer Science**
-- **(2021-2024): ✨ Maulana Azad National Urdu University,Bangalore 👉 Diploma In Computer Science**
+- **(2021-2024): ✨ Maulana Azad National Urdu University, Hyderabad 👉 Diploma In Computer Science**
 - **(2018-2020): ✨ I.G.R.S.L.N. College, Jitwariya, Samastipur 👉 Intermediate**
 - **(2017-2018): ✨ Mahanth Dukha Das.H.S.K.N. SARSAUNA 👉 10th**
   
