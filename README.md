@@ -18,10 +18,10 @@
 - 🤹 Fun fact **I am funny 😅✨**
   
 ## 🎓 Education
-- **(2024-2027): ✨ MIT 👉 B.Tech In Computer Science**
-- **(2021-2024): ✨ Maulana Azad National Urdu University, Hyderabad 👉 Diploma In Computer Science**
-- **(2018-2020): ✨ I.G.R.S.L.N. College, Jitwariya, Samastipur 👉 Intermediate**
-- **(2017-2018): ✨ Mahanth Dukha Das.H.S.K.N. SARSAUNA 👉 10th**
+- **📅(2024-2027): ✨ MIT 👨‍🎓 B.Tech In Computer Science**
+- **📅(2021-2024): ✨ Maulana Azad National Urdu University, Hyderabad 👨‍🎓 Diploma In Computer Science**
+- **📅(2018-2020): ✨ I.G.R.S.L.N. College, Jitwariya, Samastipur 👨‍🎓 Intermediate**
+- **📅(2017-2018): ✨ Mahanth Dukha Das.H.S.K.N. SARSAUNA 👨‍🎓 10th**
   
 
 ## 💡 Skills
@@ -46,8 +46,8 @@
 <h3 align="left">🌟 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shaqib7634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaqib7634" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md shaqibbuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shaqibbuzzaman" height="30" width="40" /></a>
-<a href="https://fb.com/md azad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md azad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-shaqibbuzzaman76340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shaqibbuzzaman" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.aazad.10888938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md azad" height="30" width="40" /></a>
 <a href="https://instagram.com/s_zaman.life" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_zaman.life" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/code innovators hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code innovators hub" height="30" width="40" /></a>
 </p>
