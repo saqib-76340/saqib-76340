@@ -32,7 +32,7 @@
   - **Control Theory:** *Distributed control, Robust control, Optimal control, Kalman filter.*
   - **Robotics:** *Robotic arms, Quadrotor drones, Wheeled mobile robots.*
   - **AI:** *Deep learning, Reinforcement learning, LLM.*
-- **Tool:** *Simulink, ROS1 & ROS2, Docker, Arduino, Solidworks.*
+- **Tool:** *Postman, Docker, Simulink, ROS1 & ROS2, Arduino, Solidworks.*
 - **Typesetting Language:** *LaTeX, Markdown.*
 ## 💎 Interests and Hobbies 
 - 🔥 interested in **front-end** and **full-stack development 💻**, and at the same time, I have a strong passion for **data science 📊,** **AI 🤖,** and **research 🔍**.
@@ -45,7 +45,7 @@
 
 <h3 align="left">🌟 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shaqib7634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaqib7634" height="30" width="40" /></a>
+<a href="https://twitter.com/shaqib76340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaqib7634" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-shaqibbuzzaman76340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shaqibbuzzaman" height="30" width="40" /></a>
 <a href="https://www.facebook.com/md.aazad.10888938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md azad" height="30" width="40" /></a>
 <a href="https://instagram.com/s_zaman.life" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_zaman.life" height="30" width="40" /></a>
