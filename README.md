@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqib-76340&label=Profile%20views&color=0e75b6&style=flat" alt="saqib-76340" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shaqib7634" target="blank"><img src="https://img.shields.io/twitter/follow/shaqib7634?logo=twitter&style=for-the-badge" alt="shaqib7634" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shaqib76340" target="blank"><img src="https://img.shields.io/twitter/follow/shaqib76340?logo=twitter&style=for-the-badge" alt="shaqib76340" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, react.js, node.js, mangoDB,**
 
