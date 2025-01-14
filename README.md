@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/saqib-76340/saqib-76340/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(3).gif)
+![MasterHead](https://github.com/saqib-76340/saqib-76340/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Shaqib✨🚀</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
